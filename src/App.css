@@ -1,0 +1,95 @@
+
+@font-face {
+  font-family: 'La Belle Aurore';
+  src: url('components/LaBelleAurore.woff2') format('woff2');
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.background{
+  width: 100%;
+  background-color: rgba(20, 8, 8);
+}
+.background-img-container{
+  height: 50vh;
+  background: url("egalaseorevaelmer.jpg");
+  opacity: 0.1;
+} 
+.heading-content{
+  position: absolute;
+  top: 20%;
+  width: 100%;
+  max-width: 100%;
+  text-align: center;
+}
+.heading-content h1{
+  font-size: 4rem;
+  font-weight: bolder;
+  font-family: "La Belle Aurore";
+  color: #fff;
+}
+.heading-content h3{
+  font-size: 2rem;
+  color: gray;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  font-weight: lighter;
+}
+
+.container{
+  padding: 40px 80px;
+  width: 100%;
+  max-width: 100%;
+}
+/* about section  start*/
+
+#overview h3{
+  color:rgb(177, 143, 177);
+  text-align: center;
+}
+#overview hr{
+  width: 50%;
+  margin: 0 auto;
+}
+#overview p{
+  font-size: 24px;
+  color: gray;
+  text-align: justify;
+  line-height: 1.7em;
+}
+
+#tableContainer{
+  width: 100%;
+}
+table{
+  font-size: 20px;
+  margin: 0 auto;
+}
+tr{
+  line-height: 2.5rem;
+}
+table tr th{
+  display: inline-block;
+  width: 100%;
+  text-align: right;
+  text-transform: uppercase;
+  padding-right: 10px;
+}
+table tr td{
+  padding-left: 60px;
+  color: gray;
+}
+
+footer>div{
+  background-color: black;
+  padding: 40px 0 80px 0;
+}
+footer>div>p{
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+}
