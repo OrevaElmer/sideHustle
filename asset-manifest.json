@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sideHustle/static/css/main.fd1600fd.css",
+    "main.js": "/sideHustle/static/js/main.2b688760.js",
+    "static/media/egalaseorevaelmer.jpg": "/sideHustle/static/media/egalaseorevaelmer.caaad6ca2d46d6346f48.jpg",
+    "static/media/LaBelleAurore.woff2": "/sideHustle/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "index.html": "/sideHustle/index.html",
+    "main.fd1600fd.css.map": "/sideHustle/static/css/main.fd1600fd.css.map",
+    "main.2b688760.js.map": "/sideHustle/static/js/main.2b688760.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1600fd.css",
+    "static/js/main.2b688760.js"
+  ]
+}
